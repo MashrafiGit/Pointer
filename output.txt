@@ -1,4 +1,2 @@
-void x: 20
-main function x location: 000000000061FE20
-main x: 10
-main function x location: 000000000061FE4C
+10
+20
